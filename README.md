@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m working as a Software Engineer<br>⚡ In my free time I love to learn new technologies and keep myself updated about the latest trends in programming industry<br>
-📄 Know about my experiences [Click here](https://drive.google.com/file/d/1P1monbOYO0mdg5F5UYz-xfl8KiOlTj3d/view?usp=sharing)
+📄 Know about my experiences [Click here]([https://drive.google.com/file/d/1P1monbOYO0mdg5F5UYz-xfl8KiOlTj3d/view?usp=sharing](https://drive.google.com/file/d/1LjKeYVtinQMkSxmKsCe_SakOe15tbK9L/view))
 
 
 ## 🌐 Socials:
